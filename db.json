@@ -1,0 +1,86 @@
+{
+  "movies": [
+    {
+      "id": "01da",
+      "title": "Bad boys For Life",
+      "genre": "kids",
+      "watched": true,
+      "poster": "https://plus.unsplash.com/premium_photo-1727529722823-933af60deb92?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "Ride together. Die together. Watch the trailer for",
+      "trailer": "https://www.youtube.com/watch?v=jKCj3XuPG8M"
+    },
+    {
+      "id": "2c3e",
+      "title": "Batman",
+      "genre": "kid",
+      "watched": true,
+      "poster": "https://images.unsplash.com/photo-1640248324060-468d9b67a3e9?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "",
+      "trailer": ""
+    },
+    {
+      "id": "d8e1",
+      "title": "zootopia",
+      "genre": "kids",
+      "watched": true,
+      "poster": "https://images.unsplash.com/flagged/photo-1572609239482-d3a83f976aa0?q=80&w=1332&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "4ce9",
+      "title": "The Smmufs",
+      "genre": "Adults😂",
+      "watched": true,
+      "poster": "https://www.shutterstock.com/shutterstock/photos/2567671363/display_1500/stock-photo-smurfs-jumping-all-around-a-field-2567671363.jpg"
+    },
+    {
+      "id": "ea0a",
+      "title": "CHUKY",
+      "genre": "HOROR",
+      "watched": false,
+      "poster": "https://images.unsplash.com/photo-1611787640592-ebf78080d96e?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "",
+      "trailer": ""
+    },
+    {
+      "id": "da21",
+      "title": "click ckick bang",
+      "genre": "comedy",
+      "watched": false,
+      "poster": "https://resizing.flixster.com/nvMEOquXSmEZAVY5Yu35NZ5J67E=/206x305/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p25904144_b_v8_aa.jpg"
+    },
+    {
+      "id": "29c9",
+      "title": "fast and furious",
+      "genre": "action",
+      "watched": false,
+      "poster": "https://images.unsplash.com/photo-1646933642085-dbdb4840aa99?q=80&w=1182&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "c03f",
+      "title": "karate kid",
+      "genre": "action",
+      "watched": false,
+      "poster": "https://upload.wikimedia.org/wikipedia/en/d/d5/Karate_kid_ver2.jpg",
+      "description": "The 2010 movie \"The Karate Kid\" features Jaden Smith as Dre Parker, a young boy who moves to Beijing with his mother and faces bullying. Jackie Chan plays Mr. Han, a maintenance man who becomes Dre's kung fu mentor, teaching him self-defense and life lessons",
+      "trailer": "https://youtu.be/XY8amUImEu0?si=YxzYGaVVajyte_Gd"
+    },
+    {
+      "id": "b25e",
+      "title": "spongebob",
+      "genre": "Adults",
+      "watched": true,
+      "poster": "https://m.media-amazon.com/images/M/MV5BYjJmMjBkZjMtZThiZS00Nzk3LWJlN2UtYmE5ZjkyNjJiZjgxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "description": "best of the best",
+      "trailer": "https://youtu.be/r9L4AseD-aA?list=RDr9L4AseD-aA"
+    },
+    {
+      "id": "7e55",
+      "title": "prison break",
+      "genre": "action",
+      "watched": false,
+      "poster": "https://musicart.xboxlive.com/7/5bcc3100-0000-0000-0000-000000000002/504/image.jpg",
+      "description": "\"Prison Break\" is an American crime drama series centered around two brothers, Lincoln Burrows and Michael Scofield. Lincoln is wrongly convicted of murdering the Vice President's brother and sentenced to death. Michael, a structural engineer, gets himself incarcerated in the same prison to orchestrate an elaborate escape plan. The series follows their perilous journey as they navigate prison life, evade capture, and uncover a vast political conspiracy.",
+      "trailer": "https://youtu.be/AL9zLctDJaU"
+    }
+  ]
+}

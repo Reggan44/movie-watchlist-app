@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title> Movie Watchlist</title>
+
+  <!-- Font Awesome -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" />
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+
+
+
+    <video autoplay muted loop playsinline class="bg-video">
+  <source src="videos/trailer.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
+
+<div class="video-overlay"></div>
+
+
+
+  <div class="container">
+    <h1> My Movie Watchlist</h1>
+
+    <!-- Filter -->
+    <div class="filter-bar">
+      <label for="sort">Filter by:</label>
+      <select id="sort">
+        <option value="all">All</option>
+        <option value="watched">Watched</option>
+        <option value="unwatched">Unwatched</option>
+      </select>
+    </div>
+
+    <!-- Movie List -->
+    <ul id="movie-list"></ul>
+    <div id="movie-detail" class="movie-detail"></div>
+
+
+    <!-- Add Movie Button -->
+    <button id="open-modal"> Add Movie</button>
+  </div>
+
+  
+
+  <!-- Modal -->
+  <div id="modal" class="modal">
+    <div class="modal-content">
+      <span id="close-modal" class="close">&times;</span>
+      <h2>Add Movie</h2>
+      <form id="movie-form">
+        <input type="text" id="title" placeholder=" Movie Title" required />
+        <input type="text" id="genre" placeholder=" Genre" required />
+        <input type="text" id="poster" placeholder=" Poster URL" required />
+        <input type="text" id="description" placeholder=" Movie Description" />
+        <input type="text" id="trailer" placeholder=" YouTube Trailer URL" />
+
+        <button type="submit">Add</button>
+      </form>
+    </div>
+  </div>
+
+
+  <!-- Toast -->
+  <div id="toast" class="toast"> Movie added!</div>
+
+  <script src="src/index.js"></script>
+</body>
+</html>
