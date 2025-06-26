@@ -81,6 +81,15 @@
       "poster": "https://musicart.xboxlive.com/7/5bcc3100-0000-0000-0000-000000000002/504/image.jpg",
       "description": "\"Prison Break\" is an American crime drama series centered around two brothers, Lincoln Burrows and Michael Scofield. Lincoln is wrongly convicted of murdering the Vice President's brother and sentenced to death. Michael, a structural engineer, gets himself incarcerated in the same prison to orchestrate an elaborate escape plan. The series follows their perilous journey as they navigate prison life, evade capture, and uncover a vast political conspiracy.",
       "trailer": "https://youtu.be/AL9zLctDJaU"
+    },
+    {
+      "id": "8107",
+      "title": "HOME ALONE",
+      "genre": "FAMILY",
+      "watched": false,
+      "poster": "https://upload.wikimedia.org/wikipedia/en/7/76/Home_alone_poster.jpg",
+      "description": "\"Home Alone\" is a hilarious film about a young boy (Macaulay Culkin) who is accidently left home during the Christmas holidays after the rest of his family goes to Europe. At first Culkin loves the situation, but soon he is scared to death when he learns that burglars Joe Pesci and Daniel Stern are targeting his house.",
+      "trailer": "https://youtu.be/dzdpqRGA1qc"
     }
   ]
 }
