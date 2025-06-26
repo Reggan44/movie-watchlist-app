@@ -101,3 +101,8 @@ Pull requests are welcome! For major changes, please open an issue first.
 ## Author
 
 - [Reggan Nzuki](https://github.com/Reggan44)
+
+
+# You can view this website live at this link
+
+https://reggan44.github.io/movie-watchlist-app/
