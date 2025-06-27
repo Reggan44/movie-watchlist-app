@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {"start": "json-server --watch db.json --port $PORT",
+  "scripts": {
+    "start": "json-server --watch db.json --port $PORT",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -16,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/Reggan44/movie-watchlist-app/issues"
   },
-  "homepage": "https://github.com/Reggan44/movie-watchlist-app#readme"
+  "homepage": "https://github.com/Reggan44/movie-watchlist-app#readme",
+  "dependencies": {
+    "json-server": "^1.0.0-beta.3"
+  }
 }
