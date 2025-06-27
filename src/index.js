@@ -1,4 +1,5 @@
-const BASE_URL = "https://movie-watchlist-app.onrender.com/movies";
+const BASE_URL ="https://movie-watchlist-app-98nn.onrender.com/movies";
+
 let movieData = [];
 
 // DOM Elements 
