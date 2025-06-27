@@ -1,4 +1,4 @@
-const BASE_URL = "http://localhost:3000/movies";
+const BASE_URL = "https://movie-watchlist-app.onrender.com/movies";
 let movieData = [];
 
 // DOM Elements 

@@ -1,0 +1,20 @@
+{
+  "name": "movie-watchlist-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {"start": "json-server --watch db.json --port $PORT",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Reggan44/movie-watchlist-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Reggan44/movie-watchlist-app/issues"
+  },
+  "homepage": "https://github.com/Reggan44/movie-watchlist-app#readme"
+}
